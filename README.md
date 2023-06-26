@@ -1,2 +1,2 @@
-# Algo-Sibo
- Hati-hati Sibo ada station Nabi Adam
+# AlgoSibo
+ Pelan-pelan Sibo ada Station Nabi Adam
